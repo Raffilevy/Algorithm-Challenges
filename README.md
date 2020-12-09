@@ -6,3 +6,5 @@ A variety of different algorithm challenges and their solutions.
 2) spinWords - this method takes in an array of strings, and any word that is five letters or more, it reverses it, It returns a string with the proper spaces.
 
 3) centuryFromYear - given an int year, returns what century that year was in.
+
+4) checkPalindrome - given a String, returns whether or not it is a palindrome.
