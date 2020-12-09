@@ -18,3 +18,5 @@ A variety of different algorithm challenges and their solutions.
 8) almostIncreasingSequence - given an array of integers, returns whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
 
 9) matrixElementsSum - Given a rectangular matrix of integers, where each value represents the cost of the room, returns the total sum of all valid rooms (ie: add up all the values that don't appear below a 0).
+
+10) allLongestStrings - Given an array of strings, returns another array containing all of the longest strings in the given array.
