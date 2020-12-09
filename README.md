@@ -16,3 +16,5 @@ A variety of different algorithm challenges and their solutions.
 7) makeArrayConsecutive2 - given an array of unique integers, returns the minimum amount of unique integers needed so that the array can be rearranged in ascending order and increasing by one.
 
 8) almostIncreasingSequence - given an array of integers, returns whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
+
+9) matrixElementsSum - Given a rectangular matrix of integers, where each value represents the cost of the room, returns the total sum of all valid rooms (ie: add up all the values that don't appear below a 0).
