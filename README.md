@@ -15,3 +15,4 @@ A variety of different algorithm challenges and their solutions.
 
 7) makeArrayConsecutive2 - given an array of unique integers, returns the minimum amount of unique integers needed so that the array can be rearranged in ascending order and increasing by one.
 
+8) almostIncreasingSequence - given an array of integers, returns whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
