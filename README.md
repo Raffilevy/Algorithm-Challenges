@@ -8,3 +8,7 @@ A variety of different algorithm challenges and their solutions.
 3) centuryFromYear - given an int year, returns what century that year was in.
 
 4) checkPalindrome - given a String, returns whether or not it is a palindrome.
+
+5) adjacentElementsProduct - given an array of integers, finds the pair of adjacent elements that has the largest product and returns that product.
+
+
